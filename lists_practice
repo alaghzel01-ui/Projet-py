@@ -1,0 +1,17 @@
+fruits = ["apple", "banana", "orange"]
+
+print("Original list:", fruits)
+
+fruits.append("mango")
+print("After adding mango:", fruits)
+
+fruits.remove("banana")
+print("After removing banana:", fruits)
+
+print("")
+print("Looping through the list:")
+for fruit in fruits:
+    print("-", fruit)
+
+print("")
+print("Total fruits:", len(fruits))
