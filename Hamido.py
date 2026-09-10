@@ -1,29 +1,16 @@
 name = input("What's your name? ")
-age = input("How old are you? ")
-city = input("Which city are you from? ")
-hobby = input("What's your favorite hobby? ")
-
-print("")
-print("🌟====== BIO CARD ======🌟")
-print("👤 Name:", name)
-print("🎂 Age:", age)
-print("🌍 City:", city)
-print("⚽ Hobby:", hobby)
-print("✨=======================✨")
-
-name = input("What's your name? ")
 score = int(input("What's your score (0-100)? "))
 
 if score >= 90:
-    grade = "A"
+    grade = "Eccelent"
 elif score >= 80:
-    grade = "B"
+    grade = "Good"
 elif score >= 70:
-    grade = "C"
+    grade = "Average"
 elif score >= 60:
-    grade = "D"
+    grade = "Pass"
 else:
-    grade = "F"
+    grade = "Fail"
 
 print("")
 print("====== RESULT ======")
@@ -31,7 +18,7 @@ print("Name:", name)
 print("Score:", score)
 print("Grade:", grade)
 
-if grade == "F":
+if grade == "Fail":
     print("You need to retake the exam")
 else:
     print("Congratulations, you passed!")
