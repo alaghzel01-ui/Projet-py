@@ -1,4 +1,4 @@
-person = {"name": "Ahmed", "age": 25, "city": "Rabat"}
+person = {"name": "Hamido", "age": 34, "city": "Rabat"}
 print(person["name"])
 print(person["age"])
 print(person["city"])
