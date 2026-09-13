@@ -1,44 +1,44 @@
 # Python Projects
 
-Majmou3a dyal mashari3 python li khdemt 3lihom o ana kanet3lm l lugha.
+A collection of Python projects I built while learning the language.
 
-## Mashari3
+## Projects
 
 ### 🐍 Snake Game
-Lo3ba Snake كلاسيكية مبنية بـ `turtle`. فيها:
-- حركة بـ arrow keys
-- نظام نقاط (score)
-- عقبات (obstacles)
-- إعادة اللعب بعد Game Over
+A classic Snake game built with `turtle`. Features:
+- Movement with arrow keys
+- Score system
+- Obstacles
+- Play again after Game Over
 
-**Chghel biha:**
+**Run it:**
 ```bash
 python3 snake-game.py
 ```
 
 ### 📇 Contacts App
-Tatbiq besit ldarat contacts - zid, chouf, o qelleb 3la contact.
+A simple contact management app - add, view, and search contacts.
 
-**Chghel biha:**
+**Run it:**
 ```bash
 python3 contacts-app.py
 ```
 
 ### 🧮 Calculator
-Alat 7asba fiha operations arba3a (+, -, *, /) b while loop.
+A calculator with basic operations (+, -, *, /) using a while loop.
 
-**Chghel biha:**
+**Run it:**
 ```bash
 python3 calculator.py
 ```
 
 ### 📊 Grade Calculator
-Kayhseb l grade (A, B, C...) 3la 7sab l note dyal talib.
+Calculates a letter grade (A, B, C...) based on a student's score.
 
 ### 👤 Bio Card Generator
-Kaywlled bitaqat ta3rif b l ma3lomat li tdkhalha.
+Generates a bio card from user input.
 
-## Chno t3lmt
+## What I Learned
 
 - Variables, input/print
 - if/elif/else
@@ -54,4 +54,4 @@ Kaywlled bitaqat ta3rif b l ma3lomat li tdkhalha.
 
 ---
 
-Sawbt hadchi ana kanet3lm python mn sfer.
+Built while learning Python from scratch.
