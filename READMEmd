@@ -1,0 +1,57 @@
+# Python Projects
+
+Majmou3a dyal mashari3 python li khdemt 3lihom o ana kanet3lm l lugha.
+
+## Mashari3
+
+### 🐍 Snake Game
+Lo3ba Snake كلاسيكية مبنية بـ `turtle`. فيها:
+- حركة بـ arrow keys
+- نظام نقاط (score)
+- عقبات (obstacles)
+- إعادة اللعب بعد Game Over
+
+**Chghel biha:**
+```bash
+python3 snake-game.py
+```
+
+### 📇 Contacts App
+Tatbiq besit ldarat contacts - zid, chouf, o qelleb 3la contact.
+
+**Chghel biha:**
+```bash
+python3 contacts-app.py
+```
+
+### 🧮 Calculator
+Alat 7asba fiha operations arba3a (+, -, *, /) b while loop.
+
+**Chghel biha:**
+```bash
+python3 calculator.py
+```
+
+### 📊 Grade Calculator
+Kayhseb l grade (A, B, C...) 3la 7sab l note dyal talib.
+
+### 👤 Bio Card Generator
+Kaywlled bitaqat ta3rif b l ma3lomat li tdkhalha.
+
+## Chno t3lmt
+
+- Variables, input/print
+- if/elif/else
+- Loops (for, while)
+- Functions
+- Lists
+- Dictionaries
+
+## Technologies
+
+- Python 3.14
+- Turtle (graphics)
+
+---
+
+Sawbt hadchi ana kanet3lm python mn sfer.
